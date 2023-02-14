@@ -54,5 +54,6 @@ async function getData() {
 
 getData()
 
+
 //Find e Filter só é usado dentro de array
 //Find retornar um obj e o filter um array

@@ -32,6 +32,7 @@ const videos = [
     },
     {
         nome : "Video 03",
+        
         duracao : 150,
         data : "222222222",
         usuario : "03"
